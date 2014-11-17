@@ -1,0 +1,19 @@
+{
+  "name": "reloadexample",
+  "version": "1.0.0",
+  "description": "First things first I'm going on the assumption that you have node installed. If not, this might be a perfect time to do so. I recommend using the package installer on the [node.js](http://nodejs.org/) site as it makes it much easier. I could go into more detail, but for now I'll just say I don't like where the homebrew installer of Node puts certain files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brantphoto/reload_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brantphoto/reload_example/issues"
+  },
+  "homepage": "https://github.com/brantphoto/reload_example"
+}
